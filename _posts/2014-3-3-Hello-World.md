@@ -1,10 +1,78 @@
 ---
+title: 2018-9-10 1st post
 layout: post
-title: You're up and running!
+author: laurence.eaton
+permalink: /2018-9-10-new-learning-blogs.md/
+source-id: 1U3CN6ukrgyZink5101qCSbQHqfPhKwwfIwseNFSIp74
+published: true
 ---
+<table>
+  <tr>
+    <td>Title</td>
+    <td>New learning blogs</td>
+    <td>Date</td>
+    <td>10/9/18</td>
+  </tr>
+</table>
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+<table>
+  <tr>
+    <td>Starting point:</td>
+    <td>To delete my old blog repo</td>
+  </tr>
+  <tr>
+    <td>Target for this lesson?</td>
+    <td>To start off my new github blog</td>
+  </tr>
+  <tr>
+    <td>Did I reach my target? </td>
+    <td>No because i didnt finish my blog in the lesson</td>
+  </tr>
+</table>
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+<table>
+  <tr>
+    <td>How did you use your learning habits this week?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Persevering</td>
+    <td>I remembered how to change the css coding</td>
+  </tr>
+  <tr>
+    <td>Questioning?</td>
+    <td>Minimal</td>
+  </tr>
+  <tr>
+    <td>Independence</td>
+    <td>I didn't need much help and I was used to Github</td>
+  </tr>
+  <tr>
+    <td>Reflecting</td>
+    <td>I enjoyed the lesson and like coding.</td>
+  </tr>
+  <tr>
+    <td>Engagement</td>
+    <td>Asking questions about some coding and what it does</td>
+  </tr>
+  <tr>
+    <td>What could have gone better in your learning?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>I could have talked a bit less to my peers for help</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>What changes do you need to make to improve your learning next time?</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>I will be more independent</td>
+    <td></td>
+  </tr>
+</table>
+
+
