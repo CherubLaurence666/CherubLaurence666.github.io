@@ -79,9 +79,6 @@ published: true
 title: 17-9-18 2nd blog.md
 layout: post
 author: cherublaurence666
-permalink: /17-9-18 2nd blog.md/
-source-id: 1U3CN6ukrgyZink5101qCSbQHqfPhKwwfIwseNFSIp74
-published: true
 ---
 <table>
   <tr>
