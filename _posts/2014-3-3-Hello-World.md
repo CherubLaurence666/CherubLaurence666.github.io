@@ -1,5 +1,5 @@
 ---
-title: 2018-9-10 1st post
+title: Learning blogs
 layout: post
 author: laurence.eaton
 permalink: /2018-9-10-new-learning-blogs.md/
